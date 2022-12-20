@@ -4,7 +4,11 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Assignment Description
 [Project Setup Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-setup)
 
+Working through authentication issues and controllers
+
 ## Submission Instructions
 
 ### Project Repository
+https://github.com/cashhahuynh/bowlings.git
+
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
